@@ -6,3 +6,4 @@ This project focuses on building an interactive dashboard to visualize the bacte
 ## Resources
 Data Source: Belly button samples data
 Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 3.3.7, D3, Plotly 4.11
+
